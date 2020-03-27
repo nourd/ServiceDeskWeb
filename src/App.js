@@ -1,8 +1,7 @@
 import React, {Component} from 'react';
-import Tickets from './components/tickets';
+import Tickets from './components/Tickets';
 import TicketEditForm from './components/TicketEditFrorm';
 import 'bootstrap/dist/css/bootstrap.min.css';
-//import 'node_modules/react-bootstrap-table/dist/react-bootstrap-table-all.min.css';
 
 class App extends Component {
 
